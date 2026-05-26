@@ -1,6 +1,6 @@
 # 🛡️ ML-Based Detection of Malicious Dark Patterns
 
-This project uses Machine Learning (Random Forest) and advanced heuristic analysis to detect manipulative "Dark Patterns" in web interfaces via a Chrome extension.
+This project uses Machine Learning and advanced heuristic analysis to detect manipulative "Dark Patterns" in web interfaces via a Chrome extension.
 
 ---
 
